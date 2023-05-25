@@ -1,0 +1,13 @@
+1. Get the static file and the script
+
+	- static file: https://mercury.picoctf.net/static/66932732825076cad4ba43e463dae82f/static
+	- script file: https://mercury.picoctf.net/static/66932732825076cad4ba43e463dae82f/ltdis.sh
+
+
+2. Make the script file executable
+	- chmod +x ltdis.sh
+
+3. Execute the script parsing the static file as an argument
+	- ./ltdis.sh static
+
+4. Output two output files will be created so cat the one ending with strings.txt to find the flag

@@ -1,0 +1,23 @@
+Download the lyrics.txt
+
+Copy the lyrics and put them in the rockstar intepreter
+	
+		- https://codewithrockstar.com/online
+
+	you'll get and output
+		114
+		114
+		114
+		111
+		99
+		107
+		110
+		114
+		110
+		48
+		49
+		49
+		51
+		114
+
+	then you can convert it to ASCII

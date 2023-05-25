@@ -1,0 +1,14 @@
+connect to the server using nc
+
+	nc saturn.picoctf.net 53933
+
+after connecting you'll get a flag
+
+
+the rest of the flag has to be decoded 
+
+using python
+
+	- 'python'
+
+	- paste the encoded char and you'll get the flag

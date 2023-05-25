@@ -1,0 +1,8 @@
+converting hexadecimal to ASCII
+
+use the xxd tool to help
+
+
+	echo 0x70 | xxd -r -p 
+
+and find your flag to be picoCTF{p}

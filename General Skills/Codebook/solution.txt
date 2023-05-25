@@ -1,0 +1,13 @@
+1. Download code.py and cookbook.txt
+
+	- https://artifacts.picoctf.net/c/101/code.py
+	- https://artifacts.picoctf.net/c/101/codebook.txt
+
+2. Put them in the same folder 
+
+3. Add !# /usr/bin/python on top of the code.py script
+	to add the environment of python of local machine
+
+4. make code.py executable using chmod
+
+5. execute the script

@@ -1,0 +1,9 @@
+Download the zip file
+
+Cypher through every file using the command
+
+	- grep -rni "pico" *
+
+
+	the command will go through every subdirectory 
+	and every file looking for 'pico'

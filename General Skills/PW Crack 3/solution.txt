@@ -1,0 +1,7 @@
+Have to download the files
+
+Just inspect the script at the end there
+is an array of passwords so you need to 
+try all of them till you find the correct
+one because you can't reverse engineer
+a hash

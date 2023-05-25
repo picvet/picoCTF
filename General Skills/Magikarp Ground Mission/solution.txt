@@ -1,0 +1,14 @@
+1. connect to the machine using the ssh provided
+
+
+2. use the password given for your machine
+
+
+3. use the 'ls' command to find all the files 
+
+4. every folder you're directed to has a flag so cat the flag
+	and copy it
+
+5. cat the instructions file to find out where the next flag is at
+
+6. copy the rest of the flag where the instructions are pointing you at 

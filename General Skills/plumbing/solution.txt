@@ -1,0 +1,7 @@
+Connect to server using nc 
+
+You'll get a text output 
+
+Just redirect it to a file
+
+The use grep to find the flag

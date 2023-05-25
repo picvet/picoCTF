@@ -1,0 +1,13 @@
+Donwload files
+
+Create a copy of the script and edit it 
+
+	- level4-edited.py
+
+Add a for loop in the edited version to check
+the password hash for you and print the pass
+with the equal hash when it is  found 
+
+
+This will save time on putting every possible 
+pass manually

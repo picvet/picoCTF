@@ -1,0 +1,19 @@
+1. Download resource file
+
+ 	- https://jupiter.challenges.picoctf.org/static/5bd86036f013ac3b9c958499adf3e2e2/strings
+
+2. Use strings to find the strings
+
+	- strings string > outputString.txt
+	
+	output to a file so we can be able to search for the flag
+
+	more reading on strings:
+		- https://linux.die.net/man/1/strings or use the 'man strings'
+
+
+3. Search for the flag using grep
+
+	- grep pico outputStrings.txt
+
+

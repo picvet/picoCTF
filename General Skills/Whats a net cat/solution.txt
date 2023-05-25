@@ -1,0 +1,14 @@
+all needed to do is to connect to a machine using nc
+
+
+the connections needs to work on a specific port 
+
+
+the command you need to get the flag is 
+
+	- nc nameofwebsite PORT
+
+
+more reading 
+
+	- https://linux.die.net/man/1/nc

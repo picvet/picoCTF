@@ -1,0 +1,15 @@
+Download the zip file
+
+
+Unzip the file
+
+	- unzip filename
+
+Use the find to get where the file is at
+
+	- find . -type f -name uber-secret.txt
+
+Navigate to the destination shown
+
+
+Cat the file to get the flag

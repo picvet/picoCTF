@@ -1,0 +1,16 @@
+1. Make script executable first using
+
+	- Prepend #! /usr/bin/python
+	- Run chmod +x scriptname.py
+	- ./scriptname.py
+
+2. The script takes 3 arguments
+	- name of script
+	- arg either -e/-d
+	- the flag file
+
+3. To get flag use the command
+	- ./ende.py -d flag.txt.en
+
+
+NB: To know how many arguments a script takes just check the source code all the time.

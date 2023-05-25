@@ -1,0 +1,7 @@
+The syntax error was in the comparison
+
+The '=' was used instead of '==' to 
+
+compare the values of the flag and the 
+
+null value

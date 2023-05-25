@@ -1,0 +1,8 @@
+1. Get the file resource
+
+	- https://jupiter.challenges.picoctf.org/static/495d43ee4a2b9f345a4307d053b4d88d/file
+
+
+2. Use grep command to find the flag
+
+	- grep pico file

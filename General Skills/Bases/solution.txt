@@ -1,0 +1,10 @@
+1. We given a text to decode using base64
+
+	-  bDNhcm5fdGgzX3IwcDM1
+
+2. put the text into a file called 'encoded.txt' then use the base64
+	utility to decode it to a file
+	
+	- base64 -d encoded.txt > decoded.txt
+
+3. You can cat the output to get the flag

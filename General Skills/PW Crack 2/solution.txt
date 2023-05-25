@@ -1,0 +1,12 @@
+Download prerequisite files and put them in same folder
+
+	- https://artifacts.picoctf.net/c/17/level2.py
+	- https://artifacts.picoctf.net/c/17/level2.flag.txt.enc
+
+Open the level2.py script to find the password
+
+	- decrypt the encoding of char to its equivalent values
+	  using python
+	- you get your password
+
+Execute the script and enter the decrypted pass when prompted

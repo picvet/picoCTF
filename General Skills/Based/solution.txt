@@ -1,0 +1,8 @@
+The challenge required me to write a script
+
+to convert a given string which can be binary, 
+octal or hexadecimal to its equivalent ASCII 
+values.
+
+I wrote a script called 'conversion.py' to help 
+with the challenge

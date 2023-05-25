@@ -1,0 +1,6 @@
+Download the file
+
+Inspect the file and the function for
+	printing the flag isn't used in 
+	the program so you need to edit 
+	the script to print the flag

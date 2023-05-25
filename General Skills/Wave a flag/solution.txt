@@ -1,0 +1,5 @@
+1. Make file an executable
+
+	- chmod +x filename
+
+2. Use --help or -h to find the flag

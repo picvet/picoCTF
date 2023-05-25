@@ -1,0 +1,14 @@
+1. Connect to the server/program using
+
+
+	- nc mercury.picoctf.net 7449
+
+2. Get the numbers in the file called 'codedOutput.txt
+
+	- the numbers are actually ASCII values they needed to be
+	   converted to character equivalents
+
+3. Write a program called program.java
+	- the program will convert the ASCII values to characters
+	  there you find the flag of the challenge
+

@@ -1,0 +1,15 @@
+1. Download resources / python script
+
+	- https://artifacts.picoctf.net/c/30/convertme.py
+
+2. Add environment on top of your script
+
+	- #! /usr/bin/python
+
+3. Make script executable using chmod
+
+4. Execute the script you'll be given a number to convert to base 2
+
+5. To change decimal to binary use bc
+
+	- echo 'obase=2; 22' | bc

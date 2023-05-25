@@ -1,0 +1,18 @@
+Download prerequisite files
+
+Make a copy of level5.py file
+
+Add code for importing a file then
+	put the lines in an array
+
+Use the array to compare the hash 
+	of the correct password and 
+	the one you at in the array
+
+Use print when the hash is the same
+
+
+Execute the original level5.py file
+	enter the printed value when 
+	asked for a password to get 
+	the flag

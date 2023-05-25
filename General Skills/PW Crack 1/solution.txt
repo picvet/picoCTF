@@ -1,0 +1,15 @@
+Download prerequisites
+
+	- https://artifacts.picoctf.net/c/51/level1.py
+	- https://artifacts.picoctf.net/c/51/level1.flag.txt.enc
+
+Execute the python script
+
+	python3 level1.py
+
+Go to the script and find the password in the if statement
+
+Enter the password when prompted 
+
+
+You get the flag

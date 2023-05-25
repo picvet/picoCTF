@@ -1,0 +1,11 @@
+- connect using nc
+
+- get a string to convert to md5
+
+- so I created a python script 
+
+	: encryption.py
+
+	which converts whatever input you
+	give it to a md5 digest
+

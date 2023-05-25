@@ -1,0 +1,9 @@
+COnverting base 10 to base 2
+
+Tool  I used is bc
+
+	- echo 'obase=2; ibase=10; 42' | bc
+
+More reading on bc
+
+	- https://www.geeksforgeeks.org/bc-command-linux-examples/
